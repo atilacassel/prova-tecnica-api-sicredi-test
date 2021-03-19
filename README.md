@@ -39,7 +39,7 @@ Pronto, a aplicação será iniciada a partir do JAR executável criado.
 1. Consulte o arquivo gerado `tests-resultado.txt` para verificar detalhes dos logs
 
 ---
-## Relatório de Testes -- Allure Report
+## Relatório de Testes
 
 Após a execução dos testes abra um terminal/console e execute o seguinte comando:
 `allure serve allure-results`
