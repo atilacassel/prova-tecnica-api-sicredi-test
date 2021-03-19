@@ -13,6 +13,7 @@ Este é o projeto de automação de testes da prova técnica API.
 1. Anote o caminho do diretório
 1. Abra o arquivo local `bootapp.sh` e ajuste o caminho/diretório da aplicação
 
+
 ###Como executar o `bootapp.sh`:
 1. Procure pelo arquivo `bootapp.sh` em sua IDE
 1. Clique com o botão direito e depois em executar("Run")
