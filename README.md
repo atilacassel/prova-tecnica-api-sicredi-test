@@ -7,7 +7,7 @@ Este é o projeto de automação de testes da prova técnica API.
 * Maven deve estar instalado e configurado no path da aplicação;
 ---
 
-### Inicializando a aplicação
+## Inicializando a aplicação
 
 1. Copie o projeto 'prova-tecnica-api-test' para um diretório a sua escolha;
 1. Anote o caminho do diretório
@@ -39,7 +39,7 @@ Pronto, a aplicação será iniciada a partir do JAR executável criado.
 1. Consulte o arquivo gerado `tests-resultado.txt` para verificar detalhes dos logs
 
 ---
-### Relatório de Testes -- Allure Report
+## Relatório de Testes -- Allure Report
 
 Após a execução dos testes abra um terminal/console e execute o seguinte comando:
 `allure serve allure-results`
